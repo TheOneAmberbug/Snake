@@ -7,10 +7,16 @@ Control: WASD
 Hotkeys:
 
 R: Brings you to start menu
+
 Q: For quitting the game
+
 ESC: Pause screen
+
 O: Stone mode
+
 F: FPS Counter
+
 I: Invincible
+
 B: Borderloop (not fully working)
 
